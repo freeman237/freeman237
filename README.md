@@ -21,7 +21,7 @@
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=freeman237&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=freeman237)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeman237&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/freeman237/github-readme-stats)
 
