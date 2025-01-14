@@ -22,7 +22,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username=freeman237&show_icons=true&count_private=true&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freeman237&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/freeman237/github-readme-stats)
 
